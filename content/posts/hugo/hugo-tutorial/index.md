@@ -5,7 +5,7 @@ draft: true
 author: JackyLee
 tags: [go, hugo]
 categories: [教程]
-comments: true
+comment: true
 ---
 
 ## 配置文件

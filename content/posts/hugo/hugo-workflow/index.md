@@ -5,7 +5,7 @@ draft: true
 author: JackyLee
 tags: [hugo, go]
 categories: [工作流]
-comments: true
+comment: true
 ---
 
 ## Huge 发布工作流

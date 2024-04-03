@@ -5,7 +5,7 @@ draft: true
 author: JackyLee
 tags: [git]
 categories: [场景]
-comments: true
+comment: true
 ---
 
 ## 前言

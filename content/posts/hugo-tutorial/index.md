@@ -31,6 +31,12 @@ taxonomies:
   tag: tags
 ```
 
+## 添加评论功能
+
+[Hugo 博客添加 Giscus 评论功能 | 云吱的小站](https://haoyep.com/posts/hugo-add-component/)
+
+[giscus](https://giscus.app/zh-CN)
+
 ## 参考
 
 [LoveIt](https://hugoloveit.com/zh-cn/)

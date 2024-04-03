@@ -1,7 +1,7 @@
 ---
 title: 'Hugo 简易教程'
 date: 2024-04-03T11:00:30+08:00
-draft: true
+draft: false
 author: JackyLee
 tags: ["go"]
 categories: ["教程"]

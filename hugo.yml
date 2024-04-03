@@ -119,19 +119,20 @@ params:
   #   limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
   #   keys: ["title", "permalink", "summary", "content"]
 
-  # 评论功能
+  # 评论功能 好像没啥用
   page:
     comment:
+      enable: true
       giscus:
         enable: true
         repo: JackyLee3362/Jackylee3362.github.io
         repoId: R_kgDOLpCD4w
         category: Announcements
         categoryId: DIC_kwDOLpCD484Ceavz
-        lang: 
+        lang: ""
         mapping: pathname
-        reactionsEnabled: 1
-        emitMetadata: 0
+        reactionsEnabled: "1"
+        emitMetadata: "0"
         inputPosition: bottom
         lazyLoading: false
         lightTheme: light

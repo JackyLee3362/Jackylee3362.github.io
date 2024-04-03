@@ -1,4 +1,4 @@
-baseURL: "https://JackyLee3362.github.io/"
+baseURL: https://JackyLee3362.github.io/
 title: Jacky Lee's Blog
 paginate: 5
 theme: PaperMod
@@ -17,8 +17,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "Jacky Lee 的网站"
+  title: JackyLee 的博客
+  description: JackyLee 的博客，欢迎讨论与留言
   keywords: [Blog, Portfolio, PaperMod]
   author: JackyLee
   # author: ["Me", "You"] # multiple authors

@@ -32,32 +32,7 @@ taxonomies:
   tag: tags
 ```
 
-## 添加评论功能
 
-### 方法一：原始的标签
-
-最简单的是在 Giscus 配置好以后，获得 `<script>...</script>` 标签的内容，在 `themes/<theme_name>/layouts/partials/templates/comments.html` 里复制上
-
-然后在 `footer.html` 的末尾添加如下代码
-
-```html
-{{- partial "comments.html" . -}}
-```
-
-该方法的问题
-
-1. 在任何页面都会产生评论功能，比如主页，就不是很好看
-2. 只能对特定主题生效，切换主题仍然需要重新配置
-
-### 方法二：配置文件
-
-todo
-
-[Hugo 博客添加 Giscus 评论功能 | 云吱的小站](https://haoyep.com/posts/hugo-add-component/)
-
-[giscus](https://giscus.app/zh-CN)
-
-[Adding comments system to a Hugo site using Giscus](https://www.justinjbird.me/blog/2023/adding-comments-to-a-hugo-site-using-giscus/)
 
 ## 参考
 

@@ -1,10 +1,10 @@
 ---
-title: "Hugo W工作流"
+title: Hugo 工作流
 date: 2024-04-03T17:20:20+08:00
 draft: true
 author: JackyLee
-tags: ["hugo", "go"]
-categories: ["工作流"]
+tags: [hugo, go]
+categories: [工作流]
 comments: true
 ---
 

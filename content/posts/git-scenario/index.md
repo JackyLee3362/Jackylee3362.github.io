@@ -5,6 +5,7 @@ draft: false
 author: JackyLee
 tags: ["git"]
 categories: ["场景"]
+comments: true
 ---
 
 在使用 Github 的时候，由于对远程分支和本地分支理解不够深刻，难免会出现各种问题

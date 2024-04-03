@@ -122,8 +122,8 @@ params:
   # 评论功能
   page:
     comment:
+      enable: true
       giscus:
-        enable: true
         repo: JackyLee3362/Jackylee3362.github.io
         repoId: R_kgDOLpCD4w
         category: Announcements

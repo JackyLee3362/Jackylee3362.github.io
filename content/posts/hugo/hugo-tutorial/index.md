@@ -32,8 +32,6 @@ taxonomies:
   tag: tags
 ```
 
-
-
 ## 参考
 
 [LoveIt](https://hugoloveit.com/zh-cn/)

@@ -1,10 +1,10 @@
 ---
-title: 'Hugo 简易教程'
+title: Hugo 简易教程
 date: 2024-04-03T11:00:30+08:00
-draft: false
+draft: true
 author: JackyLee
-tags: ["go"]
-categories: ["教程"]
+tags: [go, hugo]
+categories: [教程]
 comments: true
 ---
 
@@ -24,7 +24,7 @@ comments: true
 
 参考如下文章
 
-[Hugo框架中文文档 标签分类 - Andbible](https://www.andbible.com/post/hugo-content-management-taxonomies/#default-taxonomies)
+[Hugo 框架中文文档 标签分类 - Andbible](https://www.andbible.com/post/hugo-content-management-taxonomies/#default-taxonomies)
 
 ```yaml
 taxonomies:

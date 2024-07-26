@@ -67,6 +67,20 @@ Warning: 使用完 stash 后，并没有形成一个提交
 
 ## 2 远程分支相关
 
+### 2.1 克隆指定分支
+
+```shell
+git clone [git-repo] -b [branch-name]
+# 或者
+git clone -b [branch-name] [git-repo]
+```
+
+### 2.2 clone 时选择 http 协议 和 ssh/git 协议 的区别
+
+http: 无需身份验证
+
+ssh: 需要 ssh 密钥
+
 ### 2.1 删除远程分支
 
 远程分支已删除，本地仍然保留远程分支，如何清理过期的分支
@@ -79,7 +93,7 @@ git remote prune origin
 
 ### 2.2 gitmodules 相关
 
-gitmodule 是第一次遇到，有点抽象的，不过不用管，先酱
+gitmodules 是第一次遇到，有点抽象的，不过不用管，先酱
 
 删除 `gitmodules`
 

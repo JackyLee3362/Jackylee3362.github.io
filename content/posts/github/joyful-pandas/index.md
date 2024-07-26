@@ -1,10 +1,10 @@
 ---
-title: joyful-pandas 仓库
+title: Github开源项目 Joyful Pandas 阅读笔记
 date: 2024-04-06T00:52:55+08:00
 draft: true
 author: JackyLee
-tags: []
-categories: ["Github", "教程"]
+tags: ["python"]
+categories: ["github", "教程"]
 comment: true
 ---
 

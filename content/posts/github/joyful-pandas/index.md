@@ -3,8 +3,8 @@ title: Github开源项目 Joyful Pandas 阅读笔记
 date: 2024-04-06T00:52:55+08:00
 draft: true
 author: JackyLee
-tags: ["python"]
-categories: ["github", "教程"]
+tags: [python]
+categories: [github, 教程]
 comment: true
 ---
 
